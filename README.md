@@ -1,72 +1,74 @@
 # A5 Activator Platinum
 
-MacOS/Win -стильный инструмент для активации iPhone и iPad на iOS 7–10, застрявших на экране приветствия (Hello Screen), под управлением Windows.
+**Legacy iOS toolkit for Apple A5/A6 devices — Windows**
 
-> [!WARNING]
-> Все действия выполняются на ваш страх и риск. Разработчик не несет ответственности за потерю данных, повреждение устройства или юридические последствия.
+[![Latest release](https://img.shields.io/github/v/release/smartmaster35rus-dev/A5-Activator-Platinum-win?label=Windows&style=for-the-badge)](https://github.com/smartmaster35rus-dev/A5-Activator-Platinum-win/releases/latest)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=for-the-badge&logo=windows)](https://github.com/smartmaster35rus-dev/A5-Activator-Platinum-win/releases)
+[![Website](https://img.shields.io/badge/Site-smartmaster35rus--activator.ru-00c853?style=for-the-badge)](https://smartmaster35rus-activator.ru/)
 
 <p align="center">
-  <img src="screenshot.png" alt="A5 Activator Platinum" width="800"/>
+
+[в¬‡пёЏ Download latest release](https://github.com/smartmaster35rus-dev/A5-Activator-Platinum-win/releases/latest) В· [рџЄџ macOS build](https://github.com/smartmaster35rus-dev/A5-Activator-Platinum-mac/releases/latest) В· [рџЊђ Activator site](https://smartmaster35rus-activator.ru/compatible.php)
+
 </p>
-
-## Возможности
-
-- **Активация iPhone / iPad / iPod** — исследование экрана приветствия (Hello Screen) (Hello Screen)
-- **Три метода активации** — стандартный (downloads.28), заводской (FactoryActivation), через Jailbreak (SSH)
-- **Автоопределение устройства** — модель, серийный номер, IMEI, UDID, версия iOS, регион, статус активации и Jailbreak
-- **Быстрые действия** — перезагрузка, выключение, выход из Recovery, блокировка OTA-обновлений, проверка регистрации
-- **Fake Reset** — защита от случайного сброса устройства
-- **Baseband fix** — исправление проблем с модемом на GSM/CDMA-устройствах
-- **Встроенный прокси-сервер** — для доступа к jailbreak-сайтам через блокировки (автозапуск/остановка)
-- **Список поддерживаемых моделей** — актуальная таблица с сервера
-- **Автообновление** — проверка и установка новых версий при запуске
-- **Инженерное меню** (Ctrl+Shift+F11) — расширенные настройки
-- **Поддержка языков** — русский, английский, испанский
-
-## Системные требования
-
-- **ОС:** Windows 10 / 11 (64-bit)
-- **Драйвер:** iTunes или Apple Devices (для USB-подключения)
-- USB-кабель для подключения устройства
-
-## Поддерживаемые устройства
-
-| Тип | Модели |
-|-----|--------|
-| **iPhone** | 4 / 4S / 5 / 5c / 5s / 6 / 6 Plus / 6s / 6s Plus / SE (1st) / 7 / 7 Plus |
-| **iPad** | 2 / 3 / 4 / Air 1 / Air 2 / mini 1 / mini 2 / mini 3 / mini 4 / Pro 9.7 / Pro 12.9 (1st) |
-| **iPod** | touch 5 / 6 |
-
-### Поддержка iOS
-
-| Статус | Версии |
-|--------|--------|
-| Поддерживаются | iOS 7.0 — 10.3.4 |
-| Бета-тестирование | iOS 12.x (активация пока недоступна) |
-| Не поддерживаются | iOS 13 и новее (используйте [A12 Activator](https://github.com/SmartMaster35Rus/A12-Activator-Platinum-win)) |
-
-## Быстрый старт
-
-1. Установите iTunes или Apple Devices
-2. Подключите устройство по USB (экран «Привет» должен быть активен, Wi-Fi подключён)
-3. Запустите A5 Activator Platinum
-4. Дождитесь определения устройства и проверки регистрации
-5. Нажмите **АКТИВИРОВАТЬ**
-6. Следуйте инструкциям на экране
-
-### Если найден Jailbreak (iOS 8–10)
-
-Программа автоматически обнаружит Jailbreak и предложит выбор: **стандартная активация** или **через Jailbreak** (быстрее и надёжнее).
-
-### Для iOS 6.0–7.1.2 (iPhone 4)
-
-Доступны три варианта: стандартная активация, заводская (tethered) или полный untethered (web jailbreak + SSH + перманентная активация).
-
-## Контакты
-
-- Поддержка: [t.me/SmartMaster35Rus](https://t.me/SmartMaster35Rus)
-- Сайт: [smartmaster35rus.ru](https://smartmaster35rus.ru)
 
 ---
 
-> **Дисклеймер:** Программа предназначена для образовательных целей и личного использования. Автор не несёт ответственности за любой ущерб, данные или юридические последствия.
+## рџ‡·рџ‡є Рћ РїСЂРѕРіСЂР°РјРјРµ
+
+**A5 Activator Platinum (Windows)** — инструмент для устаревших iPhone/iPad на **Apple A5/A6** (iOS 7–10.3.4): активация, Hello Screen, SSH/ramdisk сценарии, Platinum UI.
+
+## рџ‡¬рџ‡§ About
+
+Windows toolkit for legacy **A5/A6** devices (iOS 7–10.3.4). Activation, Hello Screen, ramdisk helpers, server registration, quick actions.
+
+---
+
+## вњЁ Key features
+
+| Feature | Description |
+|---------|-------------|
+| 📱 **A5/A6 support** | iPhone 4s–5c, iPad 2–4, iPad mini, iPod touch 5/6 |
+| 🔐 **Hello Screen** | Legacy activation workflows |
+| 📋 **Registration** | Server device check |
+| ⚡ **Quick actions** | Reboot, Recovery, erase |
+| 🔄 **Updates** | GitHub Releases |
+| 🌍 **i18n** | Русский · English |
+
+---
+
+## в¬‡пёЏ Download
+
+**[Releases](https://github.com/smartmaster35rus-dev/A5-Activator-Platinum-win/releases/latest)**
+
+> Use only on devices you are permitted to service. Run Windows builds as Administrator when required.
+
+## рџ“‹ Requirements
+
+- **Windows 10 / 11**
+- **iOS 7.0 – 10.3.4**
+- 3uTools / iTunes USB stack
+- Compatible A5/A6 device
+
+## рџ”— Related links
+
+| Resource | URL |
+|----------|-----|
+| macOS build | [A5-Activator-Platinum-mac](https://github.com/smartmaster35rus-dev/A5-Activator-Platinum-mac) |
+| Activator / support | [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php) |
+
+---
+
+## вљ–пёЏ Disclaimer
+
+РРЅСЃС‚СЂСѓРјРµРЅС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ **Р°РІС‚РѕСЂРёР·РѕРІР°РЅРЅРѕРіРѕ СЃРµСЂРІРёСЃР° Рё РёСЃСЃР»РµРґРѕРІР°РЅРёР№** РЅР° СѓСЃС‚СЂРѕР№СЃС‚РІР°С…, РєРѕС‚РѕСЂС‹РјРё РІС‹ РІР»Р°РґРµРµС‚Рµ РёР»Рё РёРјРµРµС‚Рµ РїСЂР°РІРѕ РѕР±СЃР»СѓР¶РёРІР°С‚СЊ.
+
+For **authorized service and research** on devices you own or may service.
+
+---
+
+<p align="center">
+
+**SmartMaster35Rus** В· [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
+
+</p>

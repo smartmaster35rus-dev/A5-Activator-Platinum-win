@@ -8,23 +8,23 @@
 
 <p align="center">
 
-[в¬‡пёЏ Download latest release](https://github.com/smartmaster35rus-dev/A5-Activator-Platinum-win/releases/latest) В· [рџЄџ macOS build](https://github.com/smartmaster35rus-dev/A5-Activator-Platinum-mac/releases/latest) В· [рџЊђ Activator site](https://smartmaster35rus-activator.ru/compatible.php)
+[⬇️ Download latest release](https://github.com/smartmaster35rus-dev/A5-Activator-Platinum-win/releases/latest) · [🪟 macOS build](https://github.com/smartmaster35rus-dev/A5-Activator-Platinum-mac/releases/latest) · [🌐 Activator site](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
 
 ---
 
-## рџ‡·рџ‡є Рћ РїСЂРѕРіСЂР°РјРјРµ
+## 🇷🇺 О программе
 
 **A5 Activator Platinum (Windows)** — инструмент для устаревших iPhone/iPad на **Apple A5/A6** (iOS 7–10.3.4): активация, Hello Screen, SSH/ramdisk сценарии, Platinum UI.
 
-## рџ‡¬рџ‡§ About
+## 🇬🇧 About
 
 Windows toolkit for legacy **A5/A6** devices (iOS 7–10.3.4). Activation, Hello Screen, ramdisk helpers, server registration, quick actions.
 
 ---
 
-## вњЁ Key features
+## ✨ Key features
 
 | Feature | Description |
 |---------|-------------|
@@ -37,20 +37,20 @@ Windows toolkit for legacy **A5/A6** devices (iOS 7–10.3.4). Activation, Hello
 
 ---
 
-## в¬‡пёЏ Download
+## ⬇️ Download
 
 **[Releases](https://github.com/smartmaster35rus-dev/A5-Activator-Platinum-win/releases/latest)**
 
 > Use only on devices you are permitted to service. Run Windows builds as Administrator when required.
 
-## рџ“‹ Requirements
+## 📋 Requirements
 
 - **Windows 10 / 11**
 - **iOS 7.0 – 10.3.4**
 - 3uTools / iTunes USB stack
 - Compatible A5/A6 device
 
-## рџ”— Related links
+## 🔗 Related links
 
 | Resource | URL |
 |----------|-----|
@@ -59,9 +59,9 @@ Windows toolkit for legacy **A5/A6** devices (iOS 7–10.3.4). Activation, Hello
 
 ---
 
-## вљ–пёЏ Disclaimer
+## ⚖️ Disclaimer
 
-РРЅСЃС‚СЂСѓРјРµРЅС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ **Р°РІС‚РѕСЂРёР·РѕРІР°РЅРЅРѕРіРѕ СЃРµСЂРІРёСЃР° Рё РёСЃСЃР»РµРґРѕРІР°РЅРёР№** РЅР° СѓСЃС‚СЂРѕР№СЃС‚РІР°С…, РєРѕС‚РѕСЂС‹РјРё РІС‹ РІР»Р°РґРµРµС‚Рµ РёР»Рё РёРјРµРµС‚Рµ РїСЂР°РІРѕ РѕР±СЃР»СѓР¶РёРІР°С‚СЊ.
+Инструмент предназначен для **авторизованного сервиса и исследований** на устройствах, которыми вы владеете или имеете право обслуживать.
 
 For **authorized service and research** on devices you own or may service.
 
@@ -69,6 +69,6 @@ For **authorized service and research** on devices you own or may service.
 
 <p align="center">
 
-**SmartMaster35Rus** В· [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
+**SmartMaster35Rus** · [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
